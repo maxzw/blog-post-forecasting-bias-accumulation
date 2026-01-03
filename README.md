@@ -1,4 +1,4 @@
-# 📈 Forecasting at Scale: How Bias emerges Trough Aggregation
+# 📈 Small Bias, Big Problems: How Bias Emerges Through Aggregation
 
 This repository contains code to create the results displayed in the blog post.
 

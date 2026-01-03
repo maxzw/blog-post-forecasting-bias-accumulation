@@ -1,6 +1,6 @@
 # 📈 Small Bias, Big Problems: How Bias Emerges Through Aggregation
 
-This repository contains code to create the results displayed in the blog post.
+This repository contains code to create the results displayed in [this](https://blog.ah.technology/small-bias-big-problems-how-bias-emerges-trough-aggregation-1859b2a94b4b?postPublishedType=repub) blog post.
 
 ## 📦 Installation
 
